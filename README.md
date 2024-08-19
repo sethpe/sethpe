@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My name is Seth!
+## Welcome to my GitHub.
+
+<div class="tenor-gif-embed" data-postid="26021440" data-share-method="host" data-aspect-ratio="0.65" data-width="100%"><a href="https://tenor.com/view/bornskywalker-dap-me-up-woody-woody-handshake-woody-toy-story-gif-26021440">Bornskywalker Dap Me Up GIF</a>from <a href="https://tenor.com/search/bornskywalker-gifs">Bornskywalker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### I'm currently working on
 
 <!--
 **sethpe/sethpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
