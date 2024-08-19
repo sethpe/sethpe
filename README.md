@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Seth!
 ## Welcome to my GitHub.
-![alt-text](https://tenor.com/bVlwO.gif)
+![text](https://tenor.com/bVlwO.gif)
 ### I'm currently working on
 
 <!--
