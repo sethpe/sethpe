@@ -1,5 +1,4 @@
-## Hi there 👋 My name is Seth!
-## Welcome to my GitHub.
+## Hi there 👋 My name is Seth! Welcome to my GitHub.
 ![text](https://tenor.com/bVlwO.gif)
 ### I'm currently working on
 
